@@ -71,7 +71,7 @@ export default {
 
 <style lang="scss" scoped>
   .hit-item{
-    width: 255px;
+    max-width: 255px;
     height: 486px;
     padding: 0 20px 0 20px;
 
