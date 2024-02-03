@@ -1,7 +1,7 @@
 const hitItems = [
     {
         itemTitle: 'Смартфон Apple Iphone 8 64GB Gold',
-        itemImgUrl: '/hitsImages/phone1.png',
+        itemImgUrl: 'hitsImages/phone1.png',
         itemRating: 5,
         itemRatingQty: 10,
         itemNewPrice: '56 890',
@@ -10,7 +10,7 @@ const hitItems = [
     },
     {
         itemTitle: 'Смартфон Samsung Galaxy S8 64GB Black',
-        itemImgUrl: '/hitsImages/phone2.png',
+        itemImgUrl: 'hitsImages/phone2.png',
         itemRating: 4.5,
         itemRatingQty: 12,
         itemNewPrice: '49 990',
@@ -19,7 +19,7 @@ const hitItems = [
     },
     {
         itemTitle: 'Смартфон Huawei Honor 9 64GB Blue',
-        itemImgUrl: '/hitsImages/phone3.png',
+        itemImgUrl: 'hitsImages/phone3.png',
         itemRating: 4,
         itemRatingQty: 8,
         itemNewPrice: '26 990',
@@ -28,7 +28,7 @@ const hitItems = [
     },
     {
         itemTitle: 'Смартфон ASUS ZenFone 4 Max ZC554KL 16GB Black',
-        itemImgUrl: '/hitsImages/phone4.png',
+        itemImgUrl: 'hitsImages/phone4.png',
         itemRating: 3,
         itemRatingQty: 5,
         itemNewPrice: '13 990',
