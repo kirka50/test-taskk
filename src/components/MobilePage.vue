@@ -21,7 +21,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/pcImage.png" height="34" width="34">
+              <img src="itemImages/pcImage.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Компьютеры
@@ -39,7 +39,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/clothingImg.png" height="34" width="34">
+              <img src="itemImages/clothingImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Одежда
@@ -57,7 +57,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/electricImg.png" height="34" width="34">
+              <img src="itemImages/electricImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Электроника
@@ -75,7 +75,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/autoImg.png" height="34" width="34">
+              <img src="itemImages/autoImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Автотовары
@@ -93,7 +93,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/sportImg.png" height="34" width="34">
+              <img src="itemImages/sportImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Спорт и отдых
@@ -111,7 +111,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/childImg.png" height="34" width="34">
+              <img src="itemImages/childImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Детские товары
@@ -129,7 +129,7 @@
         <div class="popular-cat__categories__category">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/fishImg.png" height="34" width="34">
+              <img src="itemImages/fishImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Туризм и рыбалка
@@ -147,7 +147,7 @@
         <div class="popular-cat__categories__category" style="border: none">
           <div class="categories__category__title">
             <div class="category__title__img">
-              <img src="/itemImages/toolsImg.png" height="34" width="34">
+              <img src="itemImages/toolsImg.png" height="34" width="34">
             </div>
             <div class="category__title__text">
               Инструменты
