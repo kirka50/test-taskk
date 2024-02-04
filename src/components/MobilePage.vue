@@ -277,6 +277,9 @@ export default {
             gap: 15px;
             font-size: 14px;
             line-height: 20.05px;
+            .category__title__text {
+              color: #2D9CDB;
+            }
             .category__title__img {
               display: flex;
               align-items: center;
